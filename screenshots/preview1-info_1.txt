@@ -1,0 +1,8 @@
+Prikaz (preview1.gif):
+  1. pokretanja servera i prve verzije GUI-a
+  2. slanja zahteva serveru klikom na dugme 'Hit' i dobijanje karte nazad
+  3. karte u labeli
+  4. blokiranja igraca klikom na dugme 'Hold' (kasnije ce server odblokirati kad se trenutna partija zavrsi)
+  
+ Prikaz (preview1b.gif)
+  1. komunikacije dva racunara
